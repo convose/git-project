@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world2-2
+=======
+Hello world2-1
+>>>>>>> master
