@@ -10,11 +10,9 @@ new changes
 new changes 20-47
 new changes 20-52
 
-<<<<<<< HEAD
+Here will be CONFLICT
 new second-branch changes
-
-
-
-=======
 new master changes
->>>>>>> master
+
+Never gonna run around and desert you 
+Never gonna make you cry…
