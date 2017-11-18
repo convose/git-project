@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Hello world-2
-=======
-Hello world-1
->>>>>>> master
-
-Never gonna give you up 
-Never gonna let you down 
